@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>As it is very much the Parliaments honour, so we account it no lesse our happinesse, that the doors thereof stands so freely open, wherein we may present our desires, as also acquaint it with such fears and grievances, as for the present we do, or for the future may suspect to suffer under. And as for the full discovery of both, we have presented our severall petitions, so we think ourselves in duty obliged to tender our hearty and thankefull acknowledgements, for that returne for the present we received by the mouths of those two worthy gentlemen Sir Henry Vane and Col. Lister.  Not doubting but that we shall suddenly finde our hopes crowned with such further answer, as the merits of so just and honest a case deserves.  In the mean time, we cannot but to our great regreet take notice of a false and scandalous paper, put in by Sir William Killigrew, miscalling our humble and mode it addresses, clamours, our appearances riots.  A strange mistaken confidence, so foully indeavouring to abuse their credulity, from whom he expects to finde favour or authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08388</idno>
+            <idno type="STC">Wing A3916AA</idno>
+            <idno type="STC">ESTC R223977</idno>
+            <idno type="EEBO-CITATION">64550888</idno>
+            <idno type="OCLC">ocm 64550888</idno>
+            <idno type="VID">184334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184334)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>As it is very much the Parliaments honour, so we account it no lesse our happinesse, that the doors thereof stands so freely open, wherein we may present our desires, as also acquaint it with such fears and grievances, as for the present we do, or for the future may suspect to suffer under. And as for the full discovery of both, we have presented our severall petitions, so we think ourselves in duty obliged to tender our hearty and thankefull acknowledgements, for that returne for the present we received by the mouths of those two worthy gentlemen Sir Henry Vane and Col. Lister.  Not doubting but that we shall suddenly finde our hopes crowned with such further answer, as the merits of so just and honest a case deserves.  In the mean time, we cannot but to our great regreet take notice of a false and scandalous paper, put in by Sir William Killigrew, miscalling our humble and mode it addresses, clamours, our appearances riots.  A strange mistaken confidence, so foully indeavouring to abuse their credulity, from whom he expects to finde favour or authority.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Killigrew, William, --  Sir, 1606-1695</term>
+               <term>Vane, Henry, --  Sir, 1612?-1662.</term>
+               <term>Lister, Thomas, 1597-1668.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184334:1"/>
+            <p>AS it is very much the Parliaments honour, ſo we account it no leſſe our happineſſe, that the doors thereof ſtands ſo freely open, wherein we may preſent our deſires, as alſo acquaint it with ſuch fears and grievances, as for the preſent we do, or for the future may ſuſpect to ſuffer under. And as for the full diſcovery of both, we have preſented our ſeverall Petitions, ſo we think our ſelves in duty obliged to tender our hearty and thankefull acknowledgements, for that returne for the preſent we received by the mouths of thoſe two worthy Gentlemen Sir <hi>Henry Vane</hi> and Col. <hi>Liſter.</hi> Not doubting but that we ſhall ſuddenly finde our hopes crowned with ſuch further anſwer, as the merits of ſo juſt and honeſt a cauſe deſerves. In the mean time, we cannot but to our great regreet take notice of a falſe and ſcandalous Paper, put in by Sir <hi>William Killigrew,</hi> miſcalling our humble and modeſt Addreſſes, Clamours, our Appearances Riots. A ſtrange miſtaken confidence, ſo foully indeavouring to abuſe their credulity, from whom he expects to finde favour or Authority.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>A Paper delivered and diſperſed by Sir <hi>VVilliam Killigrew.</hi>
+                        </head>
+                        <p n="1">1. <seg rend="decorInit">B</seg>Y reaſon of the many greater affairs in Parliament, the Bill for perfecting the Earle of <hi>Lindſeys</hi> Fens, hath not yet found a time to be read: by which unhappy delay the ſeaſon of this yeer is neer ſpent for works of this nature; and if the work begin not till next Summer, the profit of that yeer muſt be alſo loſt. By this unhappy delay alſo new obſtructions are now raiſed againſt this publick work; For I am credibly infor<g ref="char:EOLhyphen"/>med by ſeverall perſons of quality, that the people have been lately invited and incouraged at <hi>Boſton</hi> to come up in great numbers to make new clamours, by telling them that they have a good cauſe, and but few friends in Parliament; that three or foure onely ſpoke for them; that when the Vote paſſed, but thirteen were for the Country, and twenty ſeven againſt them; that their Fens would be loſt unleſſe they did come generally up to petition; and if that failed, then they ſhould bring up their wives and children to the Parliament doore, and there leave them.</p>
+                        <p n="2">II. I do conceive, by theſe invitations and incouragements, many poore ignorant people are per<g ref="char:EOLhyphen"/>ſwaded to ſigne Petitions they underſtand not, and may be did never ſee. And to make the noiſe and clamour greater, many rich men of <hi>Boſton,</hi> with others bordering on the eight hundred Fens, are now come up (who would have no draining, that ſo themſelves with their great ſtocks may ſtill continue to eat out the poor Commoners, and do therefore well to declare in their laſt Friday books, that the poor Commoners have no intereſt in the Fens, but by their Landlords right: which is a pretty pre<g ref="char:EOLhyphen"/>amble to rob the poor people of their Commons, in caſe their deſigne ſhould follow of incloſing all the Commons.) Theſe men alſo are now come up to petition againſt the Drainers, in hope to ſtay the Act from paſſing, thereby to keep the ſaid eight hundred Fens from being drained, and thereby to defraud the State of eight thouſand Acres in that Fens belonging to the late King, as Lord of the Soyle, and Drainer of the ſaid Fen.</p>
+                        <p n="3">III. I ſhall not trouble my ſelf to anſwer their railing books given abroad on Friday laſt, becauſe the ſubſtance of the ſame books hath by them been publiſhed long ſince, and long ſince fully anſwer<g ref="char:EOLhyphen"/>ed by books of mine: nor much value what their Petition or themſelves can ſay after ſo many yeers hearing, and ſuch full debates at ſo great a Committee, where all the Houſe had Voices; and after a Bill ordered by this honourable Houſe to be brought in to perfect the ſaid draining: for I do humbly conceive, there being no new act done by the Drainers, theſe mens repetition of old clamours fully anſwered, can ſignifie nothing but ſome few mens endeavours to delay the Act, in hope to ſtarve the Drainers while the cauſe depends; filling mens ears with terrours of the peoples diſcontent, as if two or three hundred Riotters, with their Abettors, ſigning a Petition, or as many rich mens coming up with a Petition were the voice of the whole people of <hi>Lincolnſhire!</hi> and as if all <hi>England</hi> did deſire the Fens ſhould not be drained! when as moſt of this Nation do wonder that any ſhould oppoſe ſo generall a good.</p>
+                        <p n="4">IV. I do glory in my part of the merit of this work, becauſe I may ſafely ſay that no work of this nature was ever carried on with a more generall conſent, and applauſe of the moſt eminent Lords, Owners, and Commonets of the Country; or with more equity purſued, or leſſe prejudice to any man, or hath produced a greater improvement (I mean proportionable to its quantity) nor hath any ſuch work been brought to a greater perfection. In conſideration whereof, I cannot apprehend that the whole Land ſhall be taken from us; but my fears are, leſt ſome artificiall delays, or prejudi<g ref="char:EOLhyphen"/>ciall accommodation be found to bring us to ruine, to wit, by recompencing our charge, hazard, and loſſes, which the whole twenty foure thouſand Acres will not now do, nor can the Country ever perform it by a ſum of money, though they and we ſhould agree to it. My onely hope is, that the Par<g ref="char:EOLhyphen"/>liament will think it juſt and honourable to ſettle us by the ſame like Act with <hi>Bedford-Levell,</hi> having the ſame title and merit. In which Act there are proviſoes to meet with, and prevent all miſchiefs and inconveniences which have, or may happen to any perſon concerned in this work of draining. It is therefore a vain thing by Petitions to anticipate the intentions of the Parliament, who intend ſo much their good, if <hi>Lindſey-Levell</hi> be eſtabliſhed by the like Act with <hi>Bedford-Levell;</hi> the profit of theſe works being done, will encourage the draining of all the Fens in <hi>England,</hi> as a high improvement to the publick good of this Nation, and therefore worthy of the Parliaments protection; for which there are arguments enough to convince any opinions to the contrary.</p>
+                        <closer>
+                           <dateline>
+                              <date>1 June, 1651.</date>
+                           </dateline>
+                           <signed>William Killigrew.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="reply_to_petition">
+                        <head>A Reply to Sir <hi>William Killigrews</hi> diſperſed Papers, by the Owners and Commoners in <hi>Lincolnſhire.</hi>
+                        </head>
+                        <p>
+                           <hi>
+                              <seg rend="decorInit">T</seg>O the firſt.</hi> We are civilly ſenſible of the Parliaments affairs, as appeared by the manner of our petitioning: We conceive there cannot be a time found to ſettle the Fens in the Earle of <hi>Lindſey,</hi> who petitions not for them, nor in Sir <hi>William Killigrew,</hi> who hath not produced to the Committee any Deed or Conveyance, whereby to derive a Ti<g ref="char:EOLhyphen"/>tle to himſelf. We may complain of unhappineſſe, who have been delayed and interupted in our Drainings theſe ſixty yeers by Court-Undertakers: We cannot be called obſtructors of a Bill, that petitions for one. If it was good manners for us to print what we heare and are credibly informed, we could tell to whom Sir <hi>Thomas Dawes</hi> is in<g ref="char:EOLhyphen"/>debted, and to whom Sir <hi>William Killigrew</hi> is ingaged; and that our Lands muſt diſcharge thoſe debts and ingage<g ref="char:EOLhyphen"/>ments; and who are intereſſed in other Undertakings. But to avoid calumniation, we will hold our babbles; perſons of quality are ſeldome tatlers. To invite and incourage people in a good cauſe, is noble, honeſt, and commendable: humbly to petition, cannot be called clamour by a tongue well guided. We cannot learn of any Votes that paſſed againſt us, neither can we believe it, nor that any of this Parliament is againſt us, who was ſo much for them; nor that the Fens can be loſt, if kept out of the hands of Parliament-deſtroy<g ref="char:EOLhyphen"/>ers. We ſhall never be ſo uncivill or unnaturall, as to leave our wives and children at the Parliaments doore: nor can we imagine that ever any thing will come from thence, to cauſe them to beg at other mens doors.</p>
+                        <p>
+                           <hi>To the ſecond.</hi> Sir <hi>William</hi> knows the poore need no invitations; it was they onely who were found guilty, and puniſhed for pulling down their houſes, &amp;c. as appears by ſeverall Indictments, when Sir <hi>Williams</hi> friends and ſharers was by Court power made high Sheriff and Juſtices of the peace, and Parliament men put out. Had Sir <hi>Williams</hi> charity ſooner appeared, it might have been better for him and us. He argues Leveller like, to gain the poore by telling them that is theirs they have no propriety in, for all Lawyers will tell him, right of common belongs to the lands and houſes of men, and not to their perſons; and ſuch poore as have land or cottage, hath as good right of Commons, as he that hath a hundred acres. We are as willing our Common ſhould be ſtinted and enjoyed in common, if ſo thought fit, as any poor man can deſire it, practiſe that onely, and condemn us if we oppoſe it. When Sir <hi>Williams</hi> power prevailed, it is well known how the poore was oppreſſed; ſo that his charity and arguments are but ſelf-ends. He ſaith the rich men of <hi>Boſton</hi> eat up the Common with great ſtocks, and ſo he ſaith of the reſt of the Towns, which great ſtock thoſe Fens ever maintained before Sir <hi>William</hi> knew the Country, and is an argument the Fens are not at all hurtfully ſurrounded grounds, and needs draining, ſince they bear ſuch great ſtocks. He ſaith the Commoners would defraud the State of eight thouſand acres in the eight hundred Fenne: It is he that would defraud the State, by inviting them to own what was condemned in the King; and ſo metamorphize a dear-bought-Com<g ref="char:EOLhyphen"/>mon wealth into a Kingdome again. He knows the King, when Court-power ruled, having no Title, could never out the Commoners, though he perplexed them with long and tedious ſuits in the Court of Exchequer, where he was caſt, and the Commoners poſſeſſions never interupted.</p>
+                        <p>
+                           <hi>To the third.</hi> We ſay, it is great diſcretion in Sir <hi>William</hi> not to reply to books, he is ſo unable to anſwer. But we much value, that after a cauſe ſo fully heard in Parliament, as to be remonſtrated a grievance, it ſhould now be a queſtion, whether the grievers ſhould be recompenced or not. What our petitions or repetitions ſignifie, we muſt leave to the judgement of the Readers, who will ſo<g ref="char:EOLhyphen"/>berly determine who is moſt clamourous. He ſaith it is but ſome few men that oppoſe him: We will joyne iſſue with him there, if he can either of perſons or hands procure foure in ten, of rightfull Owners and Commoners, we will ceaſe in oppoſing him. Sir <hi>William</hi> much inſiſteth upon the Act or Bill that is ordered by the Houſe to be brought in by <hi>Jo: Gooding</hi> Eſq; a Member thereof, as if it was either made by or with his and his ſharers privity; for he ſaith the delay of it will ſtarve them (it is better ſtarving ten then ten thou<g ref="char:EOLhyphen"/>ſand.) But we cannot but imagine he abuſeth that worthy Member, in fomenting cauſe of jealouſie, being well aſſured the Houſe or<g ref="char:EOLhyphen"/>dered no compliance more with them then us. Sure we are, we have had no inſight or privity at all to the Bill, and why they ſhould we wonder. It is ſtrange that one who hath received ſo much mercy, ſhould be ſtill ſo foul-mouthed, as to call humble Petitioners riot<g ref="char:EOLhyphen"/>ters and abettors. He falſely accuſeth us for riotters, and yet invites us to be ſo, in excepting againſt many rich men, being truſted to repreſent the grievances of thouſands; as if it was fit to trouble the Parliament with multitudes. But as before, if Sir <hi>William</hi> can procure the greater number, we will be ſilent. We know none in <hi>England</hi> that oppoſeth drainings, neither do we believe any in <hi>England</hi> think us ſuch fools or mad men, that we need Guardians for our eſtates. We are perſwaded few of the Nation knows how we have been abu<g ref="char:EOLhyphen"/>ſed by Court-Undertakers; if they did, they would wonder ſuch propriety-deſtroyers ſhould go unpuniſhed.</p>
+                        <p>
+                           <hi>To the fourth.</hi> We are ſorry to heare Sir <hi>William</hi> glory in oppreſſion, our impriſonments, fining, ſelling our cattell without any ac<g ref="char:EOLhyphen"/>count making, taking our Land againſt our conſents, and commanding Commiſſioners by the Kings letters, deſerves little applauſe, and expreſſeth leſſe equity. Produce the conſent gained of the greateſt part of the eminenteſt Lords, Owners, and Commoners, otherwaies then by force, and we will acquieſſe. A for the improvement made, we ſhall ſubmit to the view of indifferent honeſt Gentlemen, who may judge by the ſoyle turned up, what was the former condition of the Fens. Sir <hi>William</hi> argues much for Recompence (we can eaſily prove a good recompence he hath received) for our parts, we have more cauſe to expect it,<note place="margin">
+                              <hi>Micah</hi> 2.1, 2, 3, 4, 5. ſhews what recom<g ref="char:EOLhyphen"/>pence ſuch deſerve.</note> many of the Commoners having loſt their lives and eſtates in the Parliaments ſervice, by the violence of Sir <hi>William</hi> and his participants; which blood was of greater value then any eſtate Sir <hi>William</hi> ever had. If we be unable to ſatisfie his pretended eſtate, he is far more unable to anſwer for our bloud and eſtates, he and his participants in the late war ſo laviſhly ſhed and ſpoyled. In the pardon of his violence done to the five Members, and his ho<g ref="char:EOLhyphen"/>ſtility to the Parliament, he hath received more then ever we did for our lives and eſtates we loſt and hazarded. What <hi>Bedford</hi> Act is, concerns not us, their convenience and inconveniences may not be the ſame with ours. It is high preſumption for ſuch an offendor as Sir <hi>William</hi> hath been, to ſay its vain to petition a Parliament. Could his bribes prevail there, as they did at Court, he would anticipate the juſtice thereof, and divide betwixt them and the people; the which we hope providence (that in our extremity raiſed us a Parlia<g ref="char:EOLhyphen"/>ment) will prevent. In a late paper Sir <hi>William</hi> boaſteth of 78 Commiſſioners that did act for him. Its well known how unwilling they were to act, untill they were commanded by the Kings letters. Again, thoſe Gentlemen were not actors in that which was the root of the evill; for the view of what grounds was hurtfully ſurrounded betwixt <hi>Bourne</hi> and <hi>Kime Eae,</hi> was taken onely by Undertakers and Sharers, <hi>viz.</hi> the Earl of <hi>Lindſey,</hi> the Lord <hi>Willoughby</hi> his ſon, Sir <hi>Edward Heron,</hi> Sir <hi>John Brooks, William Langton,</hi> and <hi>Robert Long,</hi> Eſq; theſe being for themſelves, were tempted with that ſin of covetuouſneſſe (yet unreformed) and certified that all was hurtfully ſurroun<g ref="char:EOLhyphen"/>ded; the other Gentlemen not privie to the deſigne, being commanded by the Kings letters to proceed accordingly; and did, untill they underſtood the evil of that deſigne, and then they endeavoured to oppoſe it. But when the Undertakers perceived their diſlike of the proceedings, they put out of commiſſion o<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Sewers thoſe Gentlemen, of which number Sir <hi>William Armin</hi> and Mr. <hi>Liſter</hi> were two; and neither of them viewed the Fens now in queſtion. We wonder Sir <hi>William Killigrew</hi> ſhould ſo unworthily charge Sir <hi>William Ar<g ref="char:EOLhyphen"/>min,</hi> that worthy deceaſed Member, as a Viewer, who cleared his innocency of that act before the Committee of the Fens. Though what he ſaid, and what Sir <hi>Anthony Irby</hi> teſtified before the Committee, what Fens he and others meant, when they writ to the King for an Undertaker, be left out of the depoſitions, yet many worthy Members and Gentlemen ſtanding by remembers it. Sir <hi>Anthony Irby</hi> being ſtill living, we deſire he may again, if occaſion requires it, declare himſelf; he formerly teſtified, that it was not meant the Fens between <hi>Bourne</hi> and <hi>Kine Eae.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
